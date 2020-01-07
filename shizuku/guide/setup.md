@@ -85,4 +85,4 @@ Please follow the rules below, otherwise it will be stopped.
 
 #### 5.1. Huawei devices
 
-Turn on "Allow ADB Debugging Options in 'Charge Only' mode" in "Developer Options".
+Turn on "Allow ADB Debugging "
